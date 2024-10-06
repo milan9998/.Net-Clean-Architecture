@@ -1,0 +1,15 @@
+C:\Users\Milan\Downloads\usp\USP\USP.Application\bin\Debug\net8.0\USP.Application.deps.json
+C:\Users\Milan\Downloads\usp\USP\USP.Application\bin\Debug\net8.0\USP.Application.dll
+C:\Users\Milan\Downloads\usp\USP\USP.Application\bin\Debug\net8.0\USP.Application.pdb
+C:\Users\Milan\Downloads\usp\USP\USP.Application\obj\Debug\net8.0\USP.Application.csproj.AssemblyReference.cache
+C:\Users\Milan\Downloads\usp\USP\USP.Application\obj\Debug\net8.0\USP.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Milan\Downloads\usp\USP\USP.Application\obj\Debug\net8.0\USP.Application.AssemblyInfoInputs.cache
+C:\Users\Milan\Downloads\usp\USP\USP.Application\obj\Debug\net8.0\USP.Application.AssemblyInfo.cs
+C:\Users\Milan\Downloads\usp\USP\USP.Application\obj\Debug\net8.0\USP.Application.csproj.CoreCompileInputs.cache
+C:\Users\Milan\Downloads\usp\USP\USP.Application\obj\Debug\net8.0\USP.Application.dll
+C:\Users\Milan\Downloads\usp\USP\USP.Application\obj\Debug\net8.0\refint\USP.Application.dll
+C:\Users\Milan\Downloads\usp\USP\USP.Application\obj\Debug\net8.0\USP.Application.pdb
+C:\Users\Milan\Downloads\usp\USP\USP.Application\obj\Debug\net8.0\ref\USP.Application.dll
+C:\Users\Milan\Downloads\usp\USP\USP.Application\bin\Debug\net8.0\USP.Domain.dll
+C:\Users\Milan\Downloads\usp\USP\USP.Application\bin\Debug\net8.0\USP.Domain.pdb
+C:\Users\Milan\Downloads\usp\USP\USP.Application\obj\Debug\net8.0\USP.Appl.E3B6B53D.Up2Date
