@@ -10,3 +10,4 @@ C:\Users\Milan\Downloads\usp\USP\USP.Domain\obj\Debug\net8.0\USP.Domain.dll
 C:\Users\Milan\Downloads\usp\USP\USP.Domain\obj\Debug\net8.0\refint\USP.Domain.dll
 C:\Users\Milan\Downloads\usp\USP\USP.Domain\obj\Debug\net8.0\USP.Domain.pdb
 C:\Users\Milan\Downloads\usp\USP\USP.Domain\obj\Debug\net8.0\ref\USP.Domain.dll
+C:\Users\Milan\Downloads\usp\USP\USP.Domain\obj\Debug\net8.0\USP.Domain.sourcelink.json

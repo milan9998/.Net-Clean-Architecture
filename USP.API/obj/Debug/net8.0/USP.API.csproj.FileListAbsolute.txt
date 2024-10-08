@@ -90,3 +90,5 @@ C:\Users\Milan\Downloads\usp\USP\USP.API\bin\Debug\net8.0\Riok.Mapperly.Abstract
 C:\Users\Milan\Downloads\usp\USP\USP.API\bin\Debug\net8.0\FluentValidation.dll
 C:\Users\Milan\Downloads\usp\USP\USP.API\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
 C:\Users\Milan\Downloads\usp\USP\USP.API\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Milan\Downloads\usp\USP\USP.API\bin\Debug\net8.0\Ardalis.SmartEnum.dll
+C:\Users\Milan\Downloads\usp\USP\USP.API\obj\Debug\net8.0\USP.API.sourcelink.json

@@ -13,3 +13,4 @@ C:\Users\Milan\Downloads\usp\USP\USP.Application\obj\Debug\net8.0\ref\USP.Applic
 C:\Users\Milan\Downloads\usp\USP\USP.Application\bin\Debug\net8.0\USP.Domain.dll
 C:\Users\Milan\Downloads\usp\USP\USP.Application\bin\Debug\net8.0\USP.Domain.pdb
 C:\Users\Milan\Downloads\usp\USP\USP.Application\obj\Debug\net8.0\USP.Appl.E3B6B53D.Up2Date
+C:\Users\Milan\Downloads\usp\USP\USP.Application\obj\Debug\net8.0\USP.Application.sourcelink.json

@@ -15,3 +15,4 @@ C:\Users\Milan\Downloads\usp\USP\USP.Infrastructure\obj\Debug\net8.0\USP.Infrast
 C:\Users\Milan\Downloads\usp\USP\USP.Infrastructure\obj\Debug\net8.0\refint\USP.Infrastructure.dll
 C:\Users\Milan\Downloads\usp\USP\USP.Infrastructure\obj\Debug\net8.0\USP.Infrastructure.pdb
 C:\Users\Milan\Downloads\usp\USP\USP.Infrastructure\obj\Debug\net8.0\ref\USP.Infrastructure.dll
+C:\Users\Milan\Downloads\usp\USP\USP.Infrastructure\obj\Debug\net8.0\USP.Infrastructure.sourcelink.json
