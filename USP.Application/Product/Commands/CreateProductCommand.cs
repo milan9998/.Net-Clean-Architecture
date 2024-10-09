@@ -11,8 +11,9 @@ public record CreateProductCommand(ProductCreateDto Product): IRequest<ProductDe
  
 public class CreateProductHandler : IRequestHandler<CreateProductCommand, ProductDetailsDto?>
 {
-    public async Task<ProductDetailsDto?> Handle(CreateProductCommand request, CancellationToken cancellationToken)
+    public async Task<ProductDetailsDto?> Handle(CreateProductCommand request, CancellationToken cancellationToken) 
     {
+        
         var user = new User
         {
             Email = "milan.pronic.212@singimail.rs",
