@@ -935,11 +935,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Milan\\Downloads\\usp\\USP\\USP.Domain\\USP.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Milan\\RiderProjects\\.Net-Clean-Architecture\\USP.Domain\\USP.Domain.csproj",
       "projectName": "USP.Domain",
-      "projectPath": "C:\\Users\\Milan\\Downloads\\usp\\USP\\USP.Domain\\USP.Domain.csproj",
+      "projectPath": "C:\\Users\\Milan\\RiderProjects\\.Net-Clean-Architecture\\USP.Domain\\USP.Domain.csproj",
       "packagesPath": "C:\\Users\\Milan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Milan\\Downloads\\usp\\USP\\USP.Domain\\obj\\",
+      "outputPath": "C:\\Users\\Milan\\RiderProjects\\.Net-Clean-Architecture\\USP.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Milan\\AppData\\Roaming\\NuGet\\NuGet.Config",

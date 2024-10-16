@@ -21,6 +21,7 @@ public class ApiExceptionFilter : ExceptionFilterAttribute
     public override void OnException(ExceptionContext context)
     {
         HandleException(context);
+
         base.OnException(context);
     }
 
@@ -45,28 +46,45 @@ public class ApiExceptionFilter : ExceptionFilterAttribute
             Title = "An error occurred while processing your request.",
             Type = "https://tools.ietf.org/html/rfc7231#section-6.6.1"
         };
-        context.Result = new ObjectResult(details) { StatusCode = StatusCodes.Status500InternalServerError };
+
+        context.Result = new ObjectResult(details)
+        {
+            StatusCode = StatusCodes.Status500InternalServerError
+        };
+
         context.ExceptionHandled = true;
     }
 
     private void HandleFluentValidationException(ExceptionContext context)
     {
         var exception = (FluentValidation.ValidationException)context.Exception;
-        var failures = exception.Errors.GroupBy(e => e.PropertyName, e => e.ErrorMessage)
-            .ToDictionary(x => x.Key, x => x.ToArray());
+        var failures = exception.Errors
+            .GroupBy(e => e.PropertyName,
+                e => e.ErrorMessage)
+            .ToDictionary(x => x.Key,
+                x => x.ToArray());
+
         var details = new ValidationProblemDetails(failures)
-            { Type = "https://tools.ietf.org/html/rfc7231#section-6.5.1" };
+        {
+            Type = "https://tools.ietf.org/html/rfc7231#section-6.5.1"
+        };
+
         context.Result = new BadRequestObjectResult(details);
+
         context.ExceptionHandled = true;
     }
 
     private void HandleUspValidationException(ExceptionContext context)
     {
         var exception = (UspValidationException)context.Exception;
+
         var details = new ValidationProblemDetails((IDictionary<string, string[]>)exception.AdditionalData!)
-            { Type = "https://tools.ietf.org/html/rfc7231#section-6.5.1" };
+        {
+            Type = "https://tools.ietf.org/html/rfc7231#section-6.5.1"
+        };
+
         context.Result = new BadRequestObjectResult(details);
+
         context.ExceptionHandled = true;
     }
-
 }

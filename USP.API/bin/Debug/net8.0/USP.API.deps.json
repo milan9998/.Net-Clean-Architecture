@@ -11,7 +11,8 @@
           "Microsoft.AspNetCore.OpenApi": "8.0.5",
           "Swashbuckle.AspNetCore": "6.4.0",
           "USP.Application": "1.0.0",
-          "USP.Infrastructure": "1.0.0"
+          "USP.Infrastructure": "1.0.0",
+          "USP.Worker": "1.0.0"
         },
         "runtime": {
           "USP.API.dll": {}
@@ -336,6 +337,17 @@
             "fileVersion": "1.0.0.0"
           }
         }
+      },
+      "USP.Worker/1.0.0": {
+        "dependencies": {
+          "USP.Application": "1.0.0"
+        },
+        "runtime": {
+          "USP.Worker.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
       }
     }
   },
@@ -601,6 +613,11 @@
       "sha512": ""
     },
     "USP.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "USP.Worker/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

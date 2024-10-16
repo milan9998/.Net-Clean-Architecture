@@ -7,6 +7,10 @@ namespace USP.API.Controllers;
 [Route("api/[controller]/[action]")]
 public class ApiBaseController : ControllerBase
 {
-    private ISender? _sender;
-    protected ISender Mediator => _sender ??= HttpContext.RequestServices.GetService<ISender>();
+    private ISender? _mediator;
+
+    protected ISender Mediator
+    {
+        get { return _mediator ??= HttpContext.RequestServices.GetRequiredService<ISender>(); }
+    }
 }

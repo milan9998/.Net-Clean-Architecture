@@ -1217,11 +1217,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Milan\\Downloads\\usp\\USP\\USP.Application\\USP.Application.csproj",
+      "projectUniqueName": "C:\\Users\\Milan\\RiderProjects\\.Net-Clean-Architecture\\USP.Application\\USP.Application.csproj",
       "projectName": "USP.Application",
-      "projectPath": "C:\\Users\\Milan\\Downloads\\usp\\USP\\USP.Application\\USP.Application.csproj",
+      "projectPath": "C:\\Users\\Milan\\RiderProjects\\.Net-Clean-Architecture\\USP.Application\\USP.Application.csproj",
       "packagesPath": "C:\\Users\\Milan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Milan\\Downloads\\usp\\USP\\USP.Application\\obj\\",
+      "outputPath": "C:\\Users\\Milan\\RiderProjects\\.Net-Clean-Architecture\\USP.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Milan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1238,8 +1238,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Milan\\Downloads\\usp\\USP\\USP.Domain\\USP.Domain.csproj": {
-              "projectPath": "C:\\Users\\Milan\\Downloads\\usp\\USP\\USP.Domain\\USP.Domain.csproj"
+            "C:\\Users\\Milan\\RiderProjects\\.Net-Clean-Architecture\\USP.Domain\\USP.Domain.csproj": {
+              "projectPath": "C:\\Users\\Milan\\RiderProjects\\.Net-Clean-Architecture\\USP.Domain\\USP.Domain.csproj"
             }
           }
         }

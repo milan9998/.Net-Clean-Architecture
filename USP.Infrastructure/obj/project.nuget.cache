@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "skxTlKbOxgU=",
+  "dgSpecHash": "AKSZAwJcZSk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Milan\\Downloads\\usp\\USP\\USP.Infrastructure\\USP.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\Milan\\RiderProjects\\.Net-Clean-Architecture\\USP.Infrastructure\\USP.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Milan\\.nuget\\packages\\ardalis.smartenum\\8.1.0\\ardalis.smartenum.8.1.0.nupkg.sha512",
     "C:\\Users\\Milan\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
