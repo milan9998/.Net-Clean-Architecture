@@ -9,7 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83619ac1-6049-436e-b07f-e49591252f7e" name="Changes" comment="yaml fix" />
+    <list default="true" id="83619ac1-6049-436e-b07f-e49591252f7e" name="Changes" comment="yaml" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -156,7 +156,7 @@
       <workItem from="1729161273904" duration="207000" />
       <workItem from="1729161513552" duration="68000" />
       <workItem from="1729161621487" duration="1581000" />
-      <workItem from="1729163674063" duration="4929000" />
+      <workItem from="1729163674063" duration="5268000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <option name="closed" value="true" />
@@ -230,7 +230,23 @@
       <option name="project" value="LOCAL" />
       <updated>1729173056163</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="fix">
+      <option name="closed" value="true" />
+      <created>1729173212898</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1729173212898</updated>
+    </task>
+    <task id="LOCAL-00011" summary="yaml">
+      <option name="closed" value="true" />
+      <created>1729173502816</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1729173502816</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -247,6 +263,8 @@
     <MESSAGE value="push" />
     <MESSAGE value="all with yml" />
     <MESSAGE value="yaml fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="yaml fix" />
+    <MESSAGE value="fix" />
+    <MESSAGE value="yaml" />
+    <option name="LAST_COMMIT_MESSAGE" value="yaml" />
   </component>
 </project>
