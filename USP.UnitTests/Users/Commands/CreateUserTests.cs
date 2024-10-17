@@ -126,6 +126,7 @@ public class CreateUserTests : Base
         var command = new EditUserCommandBuilder()
             .WithDto(dto).Build();
         
+        
         var jsonSerialised = JsonSerializer.Serialize(command);
         var content = new StringContent(jsonSerialised, Encoding.UTF8, "application/json");
         var response = await AnonymousClient.PostAsync("api/User/Edit", content);
