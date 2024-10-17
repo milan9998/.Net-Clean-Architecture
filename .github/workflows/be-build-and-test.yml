@@ -1,22 +1,27 @@
-name: USP App start Tests
+name: Usp App start Test
 
 on:
   push:
     branches:
-      - 'feature/*' # matches every feature branch containing a single '/'
-      - 'main'      # matches main branch '/'
-      - '!release/**' # excludes release
+      - "feature/*" # matches every feature branch containing a single '/'
+      - "main" # matches main branch
+      - "!release/**" # excludes release branches
 
 jobs:
   backend-build-and-test:
     runs-on: ubuntu-latest
-
+    
     steps:
-      - uses: actions/checkout@v2
-      - uses: actions/setup-dotnet@v1
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Setup .NET
+        uses: actions/setup-dotnet@v1
         with:
           dotnet-version: '8.0.x'
+
       - name: Build
-        run: dotnet build --configuration Release USP.sln
+        run: dotnet build --configuration Release Usp.sln
+
       - name: Test
-        run: dotnet test --configuration Release USP.sln --no-build --verbosity normal --collect:"XPlat Code Coverage" --logger "trx" --results-directory coverage
+        run: dotnet test --configuration Release Usp.sln --no-build --verbosity normal --collect:"XPlat Code Coverage" --logger trx --results-directory coverage
