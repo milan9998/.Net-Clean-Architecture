@@ -120,7 +120,7 @@ public class CreateUserTests : Base
     [Fact]
     public async Task CreateUserCommand_TooLongEmail_BadRequest()
     {
-        var dto = new EditUserDtoBuilder().WithEmail("milan@singidunununununuuuum.ac.rs")
+        var dto = new EditUserDtoBuilder().WithEmail("milan@singidunununununuuugaegagagaeagaegaeum.ac.rs")
             .WithFirstName("Milan")
             .WithLastName("Pronic")
             .Build();

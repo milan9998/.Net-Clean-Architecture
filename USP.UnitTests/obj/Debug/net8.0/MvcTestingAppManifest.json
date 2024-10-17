@@ -1,8 +1,8 @@
 {
-  "USP.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Milan\\RiderProjects\\usp-2024\\USP.API",
-  "USP.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Milan\\RiderProjects\\usp-2024\\USP.Application",
-  "USP.BaseTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Milan\\RiderProjects\\usp-2024\\USP.BaseTests",
-  "USP.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Milan\\RiderProjects\\usp-2024\\USP.Domain",
-  "USP.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Milan\\RiderProjects\\usp-2024\\USP.Infrastructure",
-  "USP.Worker, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Milan\\RiderProjects\\usp-2024\\USP.Worker"
+  "USP.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Milan\\RiderProjects\\.Net-Clean-Architecture\\USP.API",
+  "USP.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Milan\\RiderProjects\\.Net-Clean-Architecture\\USP.Application",
+  "USP.BaseTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Milan\\RiderProjects\\.Net-Clean-Architecture\\USP.BaseTests",
+  "USP.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Milan\\RiderProjects\\.Net-Clean-Architecture\\USP.Domain",
+  "USP.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Milan\\RiderProjects\\.Net-Clean-Architecture\\USP.Infrastructure",
+  "USP.Worker, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Milan\\RiderProjects\\.Net-Clean-Architecture\\USP.Worker"
 }

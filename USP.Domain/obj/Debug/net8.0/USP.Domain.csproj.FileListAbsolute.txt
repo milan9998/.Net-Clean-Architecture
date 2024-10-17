@@ -36,3 +36,16 @@ C:\Users\Milan\RiderProjects\usp-2024\USP.Domain\obj\Debug\net8.0\USP.Domain.dll
 C:\Users\Milan\RiderProjects\usp-2024\USP.Domain\obj\Debug\net8.0\refint\USP.Domain.dll
 C:\Users\Milan\RiderProjects\usp-2024\USP.Domain\obj\Debug\net8.0\USP.Domain.pdb
 C:\Users\Milan\RiderProjects\usp-2024\USP.Domain\obj\Debug\net8.0\ref\USP.Domain.dll
+C:\Users\Milan\RiderProjects\.Net-Clean-Architecture\USP.Domain\bin\Debug\net8.0\USP.Domain.deps.json
+C:\Users\Milan\RiderProjects\.Net-Clean-Architecture\USP.Domain\bin\Debug\net8.0\USP.Domain.dll
+C:\Users\Milan\RiderProjects\.Net-Clean-Architecture\USP.Domain\bin\Debug\net8.0\USP.Domain.pdb
+C:\Users\Milan\RiderProjects\.Net-Clean-Architecture\USP.Domain\obj\Debug\net8.0\USP.Domain.csproj.AssemblyReference.cache
+C:\Users\Milan\RiderProjects\.Net-Clean-Architecture\USP.Domain\obj\Debug\net8.0\USP.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Milan\RiderProjects\.Net-Clean-Architecture\USP.Domain\obj\Debug\net8.0\USP.Domain.AssemblyInfoInputs.cache
+C:\Users\Milan\RiderProjects\.Net-Clean-Architecture\USP.Domain\obj\Debug\net8.0\USP.Domain.AssemblyInfo.cs
+C:\Users\Milan\RiderProjects\.Net-Clean-Architecture\USP.Domain\obj\Debug\net8.0\USP.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Milan\RiderProjects\.Net-Clean-Architecture\USP.Domain\obj\Debug\net8.0\USP.Domain.sourcelink.json
+C:\Users\Milan\RiderProjects\.Net-Clean-Architecture\USP.Domain\obj\Debug\net8.0\USP.Domain.dll
+C:\Users\Milan\RiderProjects\.Net-Clean-Architecture\USP.Domain\obj\Debug\net8.0\refint\USP.Domain.dll
+C:\Users\Milan\RiderProjects\.Net-Clean-Architecture\USP.Domain\obj\Debug\net8.0\USP.Domain.pdb
+C:\Users\Milan\RiderProjects\.Net-Clean-Architecture\USP.Domain\obj\Debug\net8.0\ref\USP.Domain.dll
