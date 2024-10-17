@@ -9,7 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83619ac1-6049-436e-b07f-e49591252f7e" name="Changes" comment="yaml" />
+    <list default="true" id="83619ac1-6049-436e-b07f-e49591252f7e" name="Changes" comment="rename" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,7 +77,7 @@
     "150d0ce2-3338-4615-816a-fba59df2ed88.executor": "Debug",
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "feature-2kolok",
+    "git-widget-placeholder": "feature/dotnet",
     "ignore.virus.scanning.warn.message": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -156,7 +156,7 @@
       <workItem from="1729161273904" duration="207000" />
       <workItem from="1729161513552" duration="68000" />
       <workItem from="1729161621487" duration="1581000" />
-      <workItem from="1729163674063" duration="5268000" />
+      <workItem from="1729163674063" duration="5603000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <option name="closed" value="true" />
@@ -246,7 +246,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729173502816</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="rename">
+      <option name="closed" value="true" />
+      <created>1729173838673</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1729173838673</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -265,6 +273,7 @@
     <MESSAGE value="yaml fix" />
     <MESSAGE value="fix" />
     <MESSAGE value="yaml" />
-    <option name="LAST_COMMIT_MESSAGE" value="yaml" />
+    <MESSAGE value="rename" />
+    <option name="LAST_COMMIT_MESSAGE" value="rename" />
   </component>
 </project>
