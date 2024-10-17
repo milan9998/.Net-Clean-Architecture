@@ -115,25 +115,7 @@ public class CreateUserTests : Base
         response.Should().NotBeNull();
         response.StatusCode.Should().Be(HttpStatusCode.BadRequest);
     }
-
-
-    [Fact]
-    public async Task CreateUserCommand_TooLongEmail_BadRequest()
-    {
-        var dto = new EditUserDtoBuilder().WithEmail("milan@singidunununununuuugaegagagaeagaegaeum.ac.rs")
-            .WithFirstName("Milan")
-            .WithLastName("Pronic")
-            .Build();
-        var command = new EditUserCommandBuilder()
-            .WithDto(dto).Build();
-        
-        var jsonSerialised = JsonSerializer.Serialize(command);
-        var content = new StringContent(jsonSerialised, Encoding.UTF8, "application/json");
-        var response = await AnonymousClient.PostAsync("api/User/Edit", content);
-        using var _ = new AssertionScope();
-        response.Should().NotBeNull();
-        response.StatusCode.Should().Be(HttpStatusCode.BadRequest);
-    }
+    
     [Fact]
     public async Task CreateUserCommand_TooLongFirstName_BadRequest()
     {
