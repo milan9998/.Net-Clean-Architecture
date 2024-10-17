@@ -9,7 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83619ac1-6049-436e-b07f-e49591252f7e" name="Changes" comment="" />
+    <list default="true" id="83619ac1-6049-436e-b07f-e49591252f7e" name="Changes" comment="sas" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +19,11 @@
     <option name="autoShow" value="false" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -65,11 +70,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    ".NET Launch Settings Profile.USP.API: http.executor": "Debug",
+    ".NET Launch Settings Profile.USP.API: http.executor": "Run",
     "150d0ce2-3338-4615-816a-fba59df2ed88.executor": "Debug",
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "feature/wf",
     "ignore.virus.scanning.warn.message": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -148,6 +153,7 @@
       <workItem from="1729161273904" duration="207000" />
       <workItem from="1729161513552" duration="68000" />
       <workItem from="1729161621487" duration="1581000" />
+      <workItem from="1729174124460" duration="693000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <option name="closed" value="true" />
@@ -197,7 +203,39 @@
       <option name="project" value="LOCAL" />
       <updated>1729079038075</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="yaml">
+      <option name="closed" value="true" />
+      <created>1729174209573</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1729174209573</updated>
+    </task>
+    <task id="LOCAL-00008" summary="bad test removed">
+      <option name="closed" value="true" />
+      <created>1729174388911</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1729174388911</updated>
+    </task>
+    <task id="LOCAL-00009" summary="3">
+      <option name="closed" value="true" />
+      <created>1729174548391</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1729174548391</updated>
+    </task>
+    <task id="LOCAL-00010" summary="sas">
+      <option name="closed" value="true" />
+      <created>1729174812449</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1729174812449</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -212,6 +250,10 @@
     <MESSAGE value="all with tests" />
     <MESSAGE value="push" />
     <MESSAGE value="all" />
-    <option name="LAST_COMMIT_MESSAGE" value="all" />
+    <MESSAGE value="yaml" />
+    <MESSAGE value="bad test removed" />
+    <MESSAGE value="3" />
+    <MESSAGE value="sas" />
+    <option name="LAST_COMMIT_MESSAGE" value="sas" />
   </component>
 </project>

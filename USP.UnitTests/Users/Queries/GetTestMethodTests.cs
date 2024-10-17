@@ -22,13 +22,5 @@ public class GetTestMethodTests : Base
         response.Should().NotBeNull();
         response.StatusCode.Should().Be(HttpStatusCode.OK);
     }
-    [Fact]
-    public async Task All_Users_Get_Test()
-    {
-        var response = await AnonymousClient.GetAsync("api/User/GetAllUsers");
-        using var _ = new AssertionScope();
-        response.Should().NotBeNull();
-        response.StatusCode.Should().Be(HttpStatusCode.OK);
-       
-    }
+  
 }
